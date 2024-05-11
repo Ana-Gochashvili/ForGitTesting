@@ -8,6 +8,7 @@ public class Main {
     String m4 = "M4";
     String t3 = "T3";
     String m5 = "M5";
+    String m6 = "M6";
 
 
 
