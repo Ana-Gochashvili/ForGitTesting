@@ -6,6 +6,8 @@ public class Main {
     String m2 = "M2";
     String m3 = "M3";
     String m4 = "M4";
+    String t3 = "T3";
+
 
 
 }
